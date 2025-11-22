@@ -9,38 +9,18 @@
 
 ## About
 
-**SCTY** is a Minority Business Enterprise (MBE) design and technology studio founded by **Ali Madad** in NYC. We collaborate with teams, brands, and organizations to create desirable futures through systems, storytelling, and strategic innovation.
+**SCTY** is a Minority Business Enterprise (MBE) design and technology studio founded by **Ali Madad** in NYC. We help teams, brands, and organizations navigate AI transformation through systems thinking, creative technology, and strategic innovation.
 
-We help teams navigate the AI transformation journey—from strategy development to organizational integration to shipping AI products—while augmenting, not replacing, human creativity.
-
-### Our Approach
-
-We move from research, concept, and prototype **(0 → 1)** to strategy, incubation, and launch **(1 → N)**, working across:
-
-- **Brand Systems** — Living identities that adapt and evolve  
-- **Product Design** — AI-native experiences that users love  
-- **Digital Transformation** — Embedding AI into how organizations work  
-- **Strategic Innovation** — Cutting through hype to deliver real value  
+We work from **0 → 1** (research, concept, prototype) through **1 → N** (strategy, incubation, launch), building AI-native experiences and adaptive brand and product systems.
 
 ---
 
-## Services
+## Focus Areas
 
-### Vision Sprint  
-**"Where should we play?"**  
-Cut through the AI hype and develop a focused strategy with clear priorities and measurable outcomes.
-
-### Maker Lab  
-**"How do we start today?"**  
-Break analysis paralysis with hands-on experimentation that builds confidence and practical skills.
-
-### Transformation Program  
-**"Embed AI into the org."**  
-Transform disconnected AI efforts into a cohesive strategy that reshapes organizational behavior.
-
-### Product Incubator  
-**"Ship an AI product."**  
-Navigate technical complexity and market uncertainty to launch differentiated AI products users love.
+- **Brand Systems** — Identities that evolve with organizations  
+- **Product Design** — AI-native user experiences  
+- **Digital Transformation** — Embedding AI into how teams work  
+- **Strategic Innovation** — Cutting through hype to deliver real value  
 
 ---
 
@@ -49,104 +29,69 @@ Navigate technical complexity and market uncertainty to launch differentiated AI
 ### Featured
 
 **[agentcy](https://github.com/SCTY-Inc/agentcy)** ⭐ 370  
-Multi-agent creative collaboration with AutoGen. Framework for building collaborative agent systems.
+Multi-agent creative collaboration framework built on AutoGen.
 
 **[civic-agentcy](https://github.com/SCTY-Inc/civic-agentcy)** ⭐ 67  
-Public policy multi-agent research with CrewAI. AI-powered civic research and analysis.
+AI-powered civic research and policy analysis using CrewAI.
 
 **[agent-research](https://github.com/SCTY-Inc/agent-research)** ⭐ 11  
-Deep research with Agno. Advanced research workflows using agentic intelligence.
+Deep research automation powered by Agno-based agents.
 
 ### Tools & Utilities
 
-**[PARAsight](https://github.com/SCTY-Inc/PARAsight)**  
-Turn messy Safari tabs into organized PARA-classified categories.  
-*TypeScript*
-
-**[PDFToolkit](https://github.com/SCTY-Inc/PDFToolkit)** ⭐ 7  
-PDF analysis and document extraction tools.  
-*Python*
-
-**[scty-mcp](https://github.com/SCTY-Inc/scty-mcp)**  
-Model Context Protocol server implementation.  
-*Python*
-
-**[img-vid](https://github.com/SCTY-Inc/img-vid)**  
-Image and video processing utilities.  
-*Python*
+**[PARAsight](https://github.com/SCTY-Inc/PARAsight)** — PARA-classified browser tab organizer.  
+**[PDFToolkit](https://github.com/SCTY-Inc/PDFToolkit)** — PDF analysis utilities.  
+**[scty-mcp](https://github.com/SCTY-Inc/scty-mcp)** — Model Context Protocol server.  
+**[img-vid](https://github.com/SCTY-Inc/img-vid)** — Image/video processing tools.
 
 ---
 
 ## Tech Stack
 
-**AI & ML**  
-Ax-LLM • OpenAI • Anthropic • Gemini • AutoGen • CrewAI • Agno
-
-**Frontend**  
-React 18+ • Next.js • TypeScript • Tailwind • XYFlow
-
-**Backend & Data**  
-Convex • Vercel Edge Functions • PostgreSQL • Supabase • Vector DBs (Pinecone, Weaviate)
-
-**Design**  
-Figma • Design Tokens • Component-driven development • Storybook
+**AI & ML** — Ax-LLM • OpenAI • Anthropic • Gemini • AutoGen • CrewAI • Agno  
+**Frontend** — React • Next.js • TypeScript • Tailwind • XYFlow  
+**Backend** — Convex • Vercel Edge • PostgreSQL • Supabase • Pinecone • Weaviate  
+**Design** — Figma • Design Tokens • Component-driven dev • Storybook
 
 ---
 
 ## Philosophy
 
-### AI Native Intelligence  
-We reimagine experiences from the ground up with AI as a foundational capability.
+**AI Native Intelligence**  
+Experiences built around AI as a core capability, not an add-on.
 
-### Systems Thinking  
-We design systems, not just screens—solutions that scale, adapt, and evolve.
+**Systems Thinking**  
+Designing structures that scale, evolve, and endure.
 
-### Ship Fast, Learn Faster  
-We prototype rapidly, gather feedback, and iterate.
+**Rapid Prototyping**  
+Ship fast, validate, iterate.
 
-### Human + AI  
-We augment human creativity with AI to create outcomes neither could achieve alone.
+**Human + AI**  
+Augmenting, not replacing, human creativity.
 
-### Build in Public  
-We share our learnings, open-source our tools, and contribute to the community.
+**Build in Public**  
+Open-source, transparent, community-driven.
 
 ---
 
-## Client Testimonials
+## Testimonials
 
-> "SCTY delivered a comprehensive AI roadmap that allowed us to crystallize our AI vision and adapt our approach to meet client needs."  
+> "SCTY delivered a comprehensive AI roadmap that clarified our vision and reshaped our approach."  
 > — Jeff Blackman, Managing Director
 
-> "Awesome session, minds blown! I've already implemented some tools personally and with several clients."  
+> "Smart, practical, immediately useful."  
 > — Larissa Hrabec, Chief Brand Strategist
 
-> "Working with SCTY on digital transformation has been exceptional. Their deep AI/ML strategy expertise consistently delivers innovative solutions that drive real business impact."  
+> "Exceptional AI/ML strategy. Always drives meaningful business impact."  
 > — Saul Orlando Santos, CTO
-
----
-
-## Contributing
-
-We welcome contributions to our open-source projects:
-
-1. Star repositories  
-2. [Report issues](https://github.com/SCTY-Inc)  
-3. Submit PRs  
-4. Join discussions  
-5. Improve documentation  
 
 ---
 
 ## Resources
 
-**Documentation**  
-See individual repositories.
-
-**Community**  
-[GitHub Discussions](https://github.com/orgs/SCTY-Inc/discussions) • [Twitter/X](https://twitter.com/scty)
-
-**Learning**  
-[Case Studies](https://scty.org/category/design) • [Blog Posts](https://scty.org/words)
+- **Community:** [GitHub Discussions](https://github.com/orgs/SCTY-Inc/discussions) • [X/Twitter](https://twitter.com/scty)  
+- **Case Studies:** https://scty.org/category/design  
+- **Writing:** https://scty.org/words
 
 ---
 
@@ -154,7 +99,7 @@ See individual repositories.
 
 [Website](https://scty.org) • [LinkedIn](https://linkedin.com/company/scty) • [Twitter](https://twitter.com/scty) • [Contact](https://scty.org)
 
-**SCTY, Inc** • New York City  
+**SCTY, Inc — New York City**  
 *Building the future, one system at a time*
 
 [![Made in NYC](https://img.shields.io/badge/Made%20in-NYC-1f425f.svg)](https://scty.org)  
@@ -164,4 +109,4 @@ See individual repositories.
 
 ## License
 
-All open-source projects are released under **MIT License** unless otherwise noted. Check individual repositories for specifics.
+Open-source projects are released under **MIT License** unless noted otherwise.
