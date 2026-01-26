@@ -23,7 +23,8 @@ We work across **0→1** (research, concept, prototype) and **1→N** (strategy,
 ## Open Source Projects
 
 - 🤖 **[agency-cli-tools](https://github.com/SCTY-Inc/agency-cli-tools)** — Multi-agent creative collaboration framework  
-- 🏛️ **[civic-cli-tools](https://github.com/SCTY-Inc/civic-cli-tools)** — Civic research + policy analysis agents  
+- 🏛️ **[civic-cli-tools](https://github.com/SCTY-Inc/civic-cli-tools)** — Civic research + policy analysis agents
+- 💬 **[prsna-cli-tools](https://github.com/SCTY-Inc/prsna-cli-tools)** — Sythentic persona research + simulations
 - 📑 **[pdf-cli-tools](https://github.com/SCTY-Inc/pdf-cli-tools)** — PDF analysis tools
 - 🔬 **[agent-research](https://github.com/SCTY-Inc/agent-research)** — Automated deep research with Agno-based agents   
 - 🔌 **[scty-mcp](https://github.com/SCTY-Inc/scty-mcp)** — Model Context Protocol server  
