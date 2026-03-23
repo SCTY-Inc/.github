@@ -16,7 +16,7 @@
 
 - 🎙️ **[tokdown](https://github.com/SCTY-Inc/tokdown)** — Menu bar transcript recorder
 - ☣️ **[biopreparedness-map](https://github.com/SCTY-Inc/biopreparedness-map)** — Visualize special pathogen outbreaks and biopreparedness data
-- 🗂️ **[PARAsight](https://github.com/SCTY-Inc/PARAsight)** — Turn Safari tabs into PARA-organized categories
+- 🗂️ **[linkdrop](https://github.com/SCTY-Inc/linkdrop)** — Link inbox for humans and agents
 - 🔌 **[scty-mcp](https://github.com/SCTY-Inc/scty-mcp)** — Model Context Protocol server
 - 🔬 **[agent-research](https://github.com/SCTY-Inc/agent-research)** — Automated deep research with Agno
 - 💬 **[prsna-cli-tools](https://github.com/SCTY-Inc/prsna-cli-tools)** — Synthetic persona research and simulations
