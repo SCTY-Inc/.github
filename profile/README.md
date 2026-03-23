@@ -12,39 +12,17 @@
 
 ---
 
-## About
-SCTY is an MBE design and technology studio founded by **Ali Madad** in NYC.  
-We help teams, brands, and organizations navigate AI transformation through systems thinking, creative technology, and strategic innovation.
-
-We work across **0→1** (research, concept, prototype) and **1→N** (strategy, incubation, launch), building AI-native products, interfaces, and brand systems.
-
----
-
 ## Open Source Projects
 
-- ☣️ **[biopreparedness-map](https://github.com/SCTY-Inc/biopreparedness-map)** — Visualize special pathogen outbreaks and biopreparedness data 
-- 🤖 **[agency-cli-tools](https://github.com/SCTY-Inc/agency-cli-tools)** — Multi-agent creative collaboration framework  
-- 🏛️ **[civic-cli-tools](https://github.com/SCTY-Inc/civic-cli-tools)** — Civic research + policy analysis agents
-- 💬 **[prsna-cli-tools](https://github.com/SCTY-Inc/prsna-cli-tools)** — Sythentic persona research + simulations
+- 🎙️ **[tokdown](https://github.com/SCTY-Inc/tokdown)** — Menu bar transcript recorder
+- ☣️ **[biopreparedness-map](https://github.com/SCTY-Inc/biopreparedness-map)** — Visualize special pathogen outbreaks and biopreparedness data
+- 🗂️ **[PARAsight](https://github.com/SCTY-Inc/PARAsight)** — Turn Safari tabs into PARA-organized categories
+- 🔌 **[scty-mcp](https://github.com/SCTY-Inc/scty-mcp)** — Model Context Protocol server
+- 🔬 **[agent-research](https://github.com/SCTY-Inc/agent-research)** — Automated deep research with Agno
+- 💬 **[prsna-cli-tools](https://github.com/SCTY-Inc/prsna-cli-tools)** — Synthetic persona research and simulations
 - 📑 **[pdf-cli-tools](https://github.com/SCTY-Inc/pdf-cli-tools)** — PDF analysis tools
-- 🔬 **[agent-research](https://github.com/SCTY-Inc/agent-research)** — Automated deep research with Agno-based agents   
-- 🔌 **[scty-mcp](https://github.com/SCTY-Inc/scty-mcp)** — Model Context Protocol server  
-- 🎞️ **[img-vid](https://github.com/SCTY-Inc/img-vid)** — Image + video processing utilities  
-
----
-
-## Tech Stack
-**AI/ML** — Ax-LLM • Agno • AutoGen • CrewAI • OpenAI • Anthropic • Gemini  
-**Frontend** — React • Next.js • TypeScript • Tailwind • XYFlow  
-**Backend** — Convex • Vercel Edge • PostgreSQL • Supabase • Pinecone • Weaviate  
-**Design** — Figma • Design Tokens • Component systems • Storybook  
-
----
-
-## Resources
-- 🗣️ **Community:** [GitHub Discussions](https://github.com/orgs/SCTY-Inc/discussions) • [Twitter](https://twitter.com/scty)  
-- 📁 **Case Studies:** https://scty.org/category/design  
-- ✍️ **Writing:** https://scty.org/words  
+- 🏛️ **[civic-cli-tools](https://github.com/SCTY-Inc/civic-cli-tools)** — Civic research and policy analysis agents
+- 🤖 **[agency-cli-tools](https://github.com/SCTY-Inc/agency-cli-tools)** — Multi-agent creative collaboration framework
 
 ---
 
